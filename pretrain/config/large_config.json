@@ -1,0 +1,9 @@
+{
+  "tpu_name": "koelectra",
+  "tpu_zone": "europe-west4-a",
+  "vocab_size": 40000,
+  "num_train_steps": 400000,
+  "save_checkpoints_steps": 50000,
+  "train_batch_size": 2048,
+  "learning_rate": 2e-4
+}
