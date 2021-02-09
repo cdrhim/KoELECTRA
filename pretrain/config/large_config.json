@@ -1,4 +1,6 @@
 {
+  "model_size": "large",
+  "gcp_project": "koelectra-303019",
   "tpu_name": "koelectra",
   "tpu_zone": "europe-west4-a",
   "vocab_size": 40000,
