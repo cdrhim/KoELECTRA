@@ -1,5 +1,6 @@
 {
-  "tpu_name": "electra-small",
+  "gcp_project": "koelectra-303019",
+  "tpu_name": "koelectra-small",
   "tpu_zone": "europe-west4-a",
   "vocab_size": 32200,
   "num_train_steps": 375000,
